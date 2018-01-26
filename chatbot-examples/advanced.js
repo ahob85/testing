@@ -24,6 +24,9 @@
       advancedDiv.removeChild(picture);
     }
     var words = input.value.toLowerCase().trim().split(" ");
+    words = words.filter(function(word) {
+        return word.trim() !== "";
+    });
     input.value = "";
     if(words.length === 1){
         if(greetings.indexOf(words[0]) !== -1){
