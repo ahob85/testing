@@ -94,7 +94,7 @@
   function where(word) {
     switch(word){
       case "me":
-        message.innerHTML = "I actually know exactly where you are, but I shouldn't.";
+        message.innerHTML = "I actually know <strong>exactly</strong> where you are, but I shouldn't.";
         break;
       case "atlantis":
         message.innerHTML = "Atlantis is beneath the Atlantic Ocean. It's where the fish people live.";
