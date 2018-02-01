@@ -1,0 +1,50 @@
+{
+  {
+    "artist":"Breezewax",
+    "songTitle":"Missing You",
+    "duration":"4:14",
+    "mp3Location":"music/breezewax.mp3",
+    "oggLocation":"music/breezewax.ogg",
+    "artLocation":"img/breezewax.png"
+  }
+  {
+    "artist":"Curumin",
+    "songTitle":"Vem Menina",
+    "duration":"4:19",
+    "mp3Location":"music/curumin.mp3",
+    "oggLocation":"music/curumin.ogg",
+    "artLocation":"img/curumin.png"
+  }
+  {
+    "artist":"Fat Jon",
+    "songTitle":"Intellect Bombs",
+    "duration":"3:39",
+    "mp3Location":"music/fatjon.mp3",
+    "oggLocation":"music/fatjon.ogg",
+    "artLocation":"img/fatjon.png"
+  }
+  {
+    "artist":"Nujabes",
+    "songTitle":"Luv[Sic] Pt.3",
+    "duration":"5:36",
+    "mp3Location":"music/nujabes.mp3",
+    "oggLocation":"music/nujabes.ogg",
+    "artLocation":"img/nujabes.png"
+  }
+  {
+    "artist":"Thievery Corporation",
+    "songTitle":"A Gentle Dissolve",
+    "duration":"2:49",
+    "mp3Location":"music/thievery.mp3",
+    "oggLocation":"music/thievery.ogg",
+    "artLocation":"img/thievery.png"
+  }
+  {
+    "artist":"Tosca",
+    "songTitle":"Suzuki",
+    "duration":"6:06",
+    "mp3Location":"music/tosca.mp3",
+    "oggLocation":"music/tosca.ogg",
+    "artLocation":"img/tosca.png"
+  }
+}
