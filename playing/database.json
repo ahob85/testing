@@ -5,42 +5,42 @@
       "title":"Missing You",
       "duration":"4:14",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/breezewax.mp3",
-      "artLocation":"img/breezewax.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/breezewax.png"
     },
     {
       "artist":"Curumin",
       "title":"Vem Menina",
       "duration":"4:19",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/curumin.mp3",
-      "artLocation":"img/curumin.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/curumin.png"
     },
     {
       "artist":"Fat Jon",
       "title":"Intellect Bombs",
       "duration":"3:39",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/fatjon.mp3",
-      "artLocation":"img/fatjon.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/fatjon.png"
     },
     {
       "artist":"Nujabes",
       "title":"Luv[Sic] Pt.3",
       "duration":"5:36",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/nujabes.mp3",
-      "artLocation":"img/nujabes.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/nujabes.png"
     },
     {
       "artist":"Thievery Corporation",
       "title":"A Gentle Dissolve",
       "duration":"2:49",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/thievery.mp3",
-      "artLocation":"img/thievery.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/thievery.png"
     },
     {
       "artist":"Tosca",
       "title":"Suzuki",
       "duration":"6:06",
       "mp3Location":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/music/tosca.mp3",
-      "artLocation":"img/tosca.png"
+      "artLocation":"https://ahob85.github.io/codenext/grade10/term2/musicplayer/img/tosca.png"
     }
   ]
 }
